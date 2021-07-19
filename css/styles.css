@@ -8,6 +8,7 @@
 }
 body {
   font-family: "Roboto", sans-serif;
+  font-size: 14px;
   background-color: var(--primary-color);
   color: var(--title-text-color);
 }
@@ -23,7 +24,6 @@ body {
 /*header */
 .header {
   font-weight: 500;
-  font-size: 14px;
   line-height: 1.14;
 }
 
@@ -131,16 +131,14 @@ body {
 }
 .address {
   font-style: normal;
-  font-weight: 400;
-  font-size: 14px;
+  font-weight: 400;  
   line-height: 1.71;
   color: rgba(255, 255, 255, 0.6);
 }
 
 .address-white {
   font-style: normal;
-  font-weight: 400;
-  font-size: 14px;
+  font-weight: 400;  
   line-height: 1.71;
   color: var(--primary-color);
   
