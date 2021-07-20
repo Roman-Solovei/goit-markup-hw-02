@@ -102,7 +102,6 @@ body {
 }
 
 .subtitle-text {
-  font-weight: 400;
   line-height: 1.71;
   color: var(--primary-text-color);
 }
@@ -115,14 +114,16 @@ body {
 /*team*/
 .team {
   background-color: var(--secondary-color);
-  font-weight: 400;
-  font-size: 16px;
+   font-size: 16px;
   line-height: 1.18;
 }
 .team-title {
   font-weight: 500; 
   font-size: 16px;
   line-height: 1.18; 
+}
+.team-text {
+  color: var(--primary-text-color);
 }
 
 /*footer*/
@@ -131,14 +132,12 @@ body {
 }
 .address {
   font-style: normal;
-  font-weight: 400;  
   line-height: 1.71;
   color: rgba(255, 255, 255, 0.6);
 }
 
 .address-white {
   font-style: normal;
-  font-weight: 400;  
   line-height: 1.71;
   color: var(--primary-color);
   
@@ -168,7 +167,6 @@ body {
 }
 
 .subtitle-portfolio-text {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.87;
   color: var(--primary-text-color);
